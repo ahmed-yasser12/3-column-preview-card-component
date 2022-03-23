@@ -1,0 +1,64 @@
+
+/* 
+Bright orange: hsl(31, 77%, 52%)
+Dark cyan: hsl(184, 100%, 22%)
+Very dark cyan: hsl(179, 100%, 13%)
+*/
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caption 
+{
+    border-radius: 10px;
+}
+.clearfix
+{
+    clear: both;
+}
+.item1
+{
+    background-color:  hsl(31, 77%, 52%);
+}
+.item3
+{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.caption button
+{
+    border-radius: 20px;
+
+}
+.caption .item2
+{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.items
+{
+    padding: 70px 20px;
+    float: left;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
